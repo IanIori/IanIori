@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IanIori
+- 👀 I’m interested in Java development
+- 🌱 I’m currently learning TypeScript and java project standards
+- 📫 How to reach me: ianmessia@gmail.com
