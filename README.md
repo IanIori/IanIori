@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanIori, a data analyst and aspiring data engineer from Brazil
 - 👀 I’m interested in SQL, python and data pipeline tools
-- 🌱 I’m currently learning data science and engineering fundamentals in order to further develop my skillset.
+- 🌱 I’m currently learning data science and engineering fundamentals in order to further develop my skillset and improve the quality and availability of data in the company I'm currently working at and also provide valuable predictions.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
